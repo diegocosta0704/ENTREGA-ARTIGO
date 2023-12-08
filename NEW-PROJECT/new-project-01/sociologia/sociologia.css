@@ -1,0 +1,75 @@
+main{
+    background-color: rgb(35, 131, 227)
+}
+img{
+    max-width: 100%;
+    height: auto;
+    margin: 20px;
+    border-radius: 20px;
+}
+p{
+    margin: 30px;
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: center;
+}
+.imagem2{
+    margin: auto;
+    max-width: 900px;
+    max-height: 900px;
+}
+.imagem1{
+    margin: auto;
+    text-align: center;
+}
+.text1{
+    text-align: center;
+    font-size: 30px;
+    color: yellow;
+    
+
+}
+.text2{
+    font-size: 30px;
+    text-align: center;
+    color: yellow;
+
+}
+.text3{
+    text-align: center;
+    font-size: 30px;
+    color: yellow;
+
+}
+.text0{
+    text-align: center;
+    font-size: 40px;
+    color:yellow
+}
+.p1{
+    font-size: 20px;
+    color: white;
+}
+.p2{
+font-size: 20px;
+color: white;
+
+}
+.p3{
+font-size: 20px;
+color: white;
+}
+.p4{
+font-size: 20px;
+color:  white;
+}
+.p00{
+    font-size: 20px;
+    color: white;
+   
+}
+.H13{
+    text-align: center;
+    font-size: 20px;
+    color: yellow;
+}
